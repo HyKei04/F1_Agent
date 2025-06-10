@@ -21,4 +21,4 @@ OPENROUTER_API_KEY="your_api_key"
 SERPER_API_KEY="your_api_key"
 ```
 
-In the examples folder, there are images with graphs build using this agent.
+In the examples folder, there are images with graphs built using this agent.
